@@ -9,7 +9,8 @@ gem 'therubyracer'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #gem 'sqlite3'
-gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
+#gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
+gem 'sqlite3-ruby', '1.2.5', :group => :development
 
 
 # Gems used only for assets and not required
